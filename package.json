@@ -2,7 +2,7 @@
   "name": "taskmanagement-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pankaj12345-stacrch.github.io/TaskManagementApp-Frontend",
+  "homepage": "https://pankaj12345-stacrch.github.io/Frontend",
   "dependencies": {
     "axios": "^1.6.0",
     "react": "^18.2.0",
